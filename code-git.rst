@@ -1,6 +1,5 @@
-## Para trabjar con rst
-
-# Git
+# Para trabjar con rst
+## Git
 
 
 ## git add .
